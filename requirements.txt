@@ -1,0 +1,7 @@
+Here's a list of packages  used in your CCUS cost estimator model:
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
